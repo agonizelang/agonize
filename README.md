@@ -1,10 +1,10 @@
 # Agonize: The best programming language there is
 
-**Agonize** is an esoteric programming language ships with insane features such
-as I/O operations, and in a way simple arithmetic calculations such as addition
-and subtraction. **Agonize** is an interpreted language (may change sometime in
-the future) whose interpreter was built with Google's Dart. **Agonize** is
-completely open source with pride.
+**Agonize** is an esoteric programming language that ships with insane features
+such as I/O operations, and in a way simple arithmetic calculations such as
+addition and subtraction. **Agonize** is an interpreted language (may change
+sometime in the future) whose interpreter was built with Google's Dart.
+**Agonize** is completely open source with pride.
 
 ## Interpreter Usage
 
