@@ -1,5 +1,7 @@
 # Agonize: The best programming language there is
 
+![logo-300](https://user-images.githubusercontent.com/66139317/181281993-0177c835-bd68-4b0d-a70a-e4c0e91282c2.png)
+
 **Agonize** is an esoteric programming language that ships with insane features
 such as I/O operations, and in a way simple arithmetic calculations such as
 addition and subtraction. **Agonize** is an interpreted language (may change
